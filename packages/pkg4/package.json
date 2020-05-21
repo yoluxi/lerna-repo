@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/yoyoluxi/lerna-repo/issues"
   },
-  "gitHead": "94693e31d410829d2af851750810416b5c35f2a6"
+  "gitHead": "106963ca9ee6e1c43c8754b97c5f1948405fb1e0"
 }
