@@ -1,5 +1,5 @@
 {
-  "name": "pkg4",
+  "name": "@yoyoluxi/pkg4",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "lixu <lixu19960317@gmail.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/yoyoluxi/lerna-repo/issues"
-  }
+  },
+  "gitHead": "63c4fff24c2f2da50733cf0c672be6f03b27a507"
 }

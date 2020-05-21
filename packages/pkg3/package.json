@@ -1,5 +1,5 @@
 {
-  "name": "pkg3",
+  "name": "@yoyoluxi/pkg3",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "63c4fff24c2f2da50733cf0c672be6f03b27a507"
 }
